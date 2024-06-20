@@ -1,0 +1,6 @@
+{
+    "verbose": true,
+    "ignore": [".git", ".gitignore", "dist/"],
+    "ext": "js,jsx,json,ts,tsx",
+    "exec": "npm run run"
+}
